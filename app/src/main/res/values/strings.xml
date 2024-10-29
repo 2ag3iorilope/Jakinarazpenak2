@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jakinarazpenak2</string>
+    <string name="ButtonAlerta">Dialogo Alerta</string>
+    <string name="ButtonConfirmacion">Dialogo Confirmacion</string>
+    <string name="ButtonSelecSimple">Dialogo Seleccion Simple</string>
+    <string name="ButtonSelecMulti">Dialogo Seleccion Multiple</string>
+</resources>
